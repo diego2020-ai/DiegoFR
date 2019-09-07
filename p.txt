@@ -1,0 +1,5 @@
+git init //inicializar el archivo que vamos a mandar a git 
+git add README.md //para mandar el archivo que ustedes van a alojar en el repositorio
+git commit -m "first commit" //comitiar 
+git remote add origin https://github.com/diego2020-ai/DiegoFR.git //este es tu repositorio donde lo van a mandar
+git push -u origin master //push es meter todo una
